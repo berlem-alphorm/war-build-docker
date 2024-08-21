@@ -21,7 +21,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
-                <version>2.1.1</version>
+                <version>3.3.1</version> <!-- Mise à jour vers une version compatible avec Java 17 -->
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
